@@ -7,5 +7,7 @@ Ceci est le backend du projet 6 pour la formation Developpeur. Pour faire foncti
   - depuis le dossier frontend, déclencher la commande 'ng serve' et depuis le dossier backend, la commande 'nodemon'
 
 
-### Implantation de la sécurité en fonction des règles OWASP
+## Implantation de la sécurité en fonction des règles OWASP
+  - Mise en place du package HELMET
+    - il
   
